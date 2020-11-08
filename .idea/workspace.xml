@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28191e5b-7526-42ab-b31b-9216bb2adca4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rush/homePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/rush/homePage.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gmEr9zyy9fe8pGo6bkO3Te2UT2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\TUKS\IMY220_D1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\TUKS\IMY220_D1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28191e5b-7526-42ab-b31b-9216bb2adca4" name="Default Changelist" comment="" />
+      <created>1598711563356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598711563356</updated>
+      <workItem from="1598711564387" duration="5342000" />
+      <workItem from="1598779323001" duration="7950000" />
+      <workItem from="1598811386923" duration="9090000" />
+      <workItem from="1598864007260" duration="8785000" />
+      <workItem from="1598898585208" duration="10036000" />
+      <workItem from="1598966460268" duration="26915000" />
+      <workItem from="1599642443450" duration="9322000" />
+      <workItem from="1599718694491" duration="18000" />
+      <workItem from="1599726033830" duration="8306000" />
+      <workItem from="1599840505101" duration="2145000" />
+      <workItem from="1600190617094" duration="26000" />
+      <workItem from="1601569139140" duration="609000" />
+      <workItem from="1601714398625" duration="20242000" />
+      <workItem from="1601801028477" duration="31375000" />
+      <workItem from="1601879492772" duration="40432000" />
+      <workItem from="1602223488984" duration="25000" />
+      <workItem from="1604415206217" duration="5319000" />
+      <workItem from="1604494088605" duration="5306000" />
+      <workItem from="1604566761167" duration="10260000" />
+      <workItem from="1604692589274" duration="800000" />
+      <workItem from="1604820881563" duration="713000" />
+      <workItem from="1604829145157" duration="5615000" />
+      <workItem from="1604853088627" duration="8202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598982998695">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1598982998695" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1602223512307">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1165" y="291" key="FileChooserDialogImpl/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601931135829" />
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1602223512307" />
+    <state x="645" y="355" key="NewPhpFileDialog" timestamp="1604854683258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="355" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1604854683258" />
+    <state x="-1114" y="448" key="NewPhpFileDialog/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598898978629" />
+    <state x="860" y="479" key="NewPhpFileDialog/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1604431401515" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1598869527756">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598869527756" />
+    <state x="681" y="259" key="run.anything.popup" timestamp="1601922030414">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1601922030414" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1598909603171">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1598909603171" />
+  </component>
+</project>
